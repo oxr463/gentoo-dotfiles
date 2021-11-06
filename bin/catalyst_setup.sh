@@ -24,7 +24,6 @@ get_seed_tarball() {
 }
 
 create_portage_snapshot() {
-  # FIXME: doesn't work in docker
   catalyst -s "$(date +%Y.%m.%d)"
 }
 

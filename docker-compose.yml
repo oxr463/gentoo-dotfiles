@@ -5,6 +5,7 @@ services:
     hostname: gentoo-sdk
     build: .
     image: oxr463/gentoo-sdk:latest
+    privileged: true
     volumes:
       - ~/.gentoo:/root/.gentoo
       - ~/src/gentoo-releng:/usr/src/releng
