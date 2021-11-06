@@ -1,0 +1,8 @@
+version: "3"
+services:
+  gentoo-sdk:
+    container_name: gentoo-sdk
+    hostname: gentoo-sdk
+    build: .
+    image: oxr463/gentoo-sdk:latest
+
