@@ -20,7 +20,7 @@ get_seed_tarball() {
     awk '!/^#/ { print $1 }') # do not print comment lines
 
   curl -L "${AUTOBUILDS_URL}/${latest_stage3}" \
-    -o "${CATALYST_BUILDS_DEFAULT}/stage3-amd64-latest.tar.xz"
+    -o "${CATALYST_BUILDS}/stage3-amd64-latest.tar.xz"
 }
 
 create_portage_snapshot() {
