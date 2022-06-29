@@ -1,0 +1,5 @@
+rm -rf /etc/systemd \
+       /usr/lib/systemd \
+       /run/systemd \
+       /lib/systemd
+

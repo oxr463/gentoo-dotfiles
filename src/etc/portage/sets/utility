@@ -1,0 +1,9 @@
+# tools
+app-crypt/gnupg
+app-misc/screen
+app-portage/repoman
+app-shells/bash-completion
+dev-util/pkgcheck
+dev-vcs/git
+net-misc/keychain
+

@@ -1,0 +1,4 @@
+dev-python/snakeoil ~amd64
+dev-util/pkgcheck ~amd64
+sys-apps/pkgcore ~amd64
+

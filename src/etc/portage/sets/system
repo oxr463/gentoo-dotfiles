@@ -1,0 +1,14 @@
+# system
+app-admin/sysklogd
+app-emulation/lxc
+net-misc/bridge-utils
+net-misc/dhcpcd
+net-misc/ntp
+sys-apps/ifplugd
+sys-apps/lm_sensors
+sys-boot/grub
+sys-kernel/genkernel
+sys-kernel/gentoo-sources
+sys-kernel/linux-firmware
+sys-process/cronbase
+

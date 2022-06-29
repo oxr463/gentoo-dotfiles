@@ -1,0 +1,16 @@
+LoginGraceTime 2m
+PermitRootLogin no 
+StrictModes yes
+MaxAuthTries 3
+MaxSessions 2
+
+AuthenticationMethods "publickey,password"
+PermitEmptyPasswords no
+ChallengeResponseAuthentication no
+
+UsePAM no
+PrintMotd no
+PrintLastLog no
+
+AcceptEnv LANG LC_*
+

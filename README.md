@@ -17,3 +17,9 @@ docker-compose run gentoo-sdk /bin/sh
 
 SPDX-License-Identifier: [0BSD](https://spdx.org/licenses/0BSD.html)
 
+## Reference
+
+- [Gentoo: proj/baselayout](https://gitweb.gentoo.org/proj/baselayout.git)
+
+- [OpenBSD: src](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src)
+
